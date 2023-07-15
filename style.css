@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+}
+
+.main{
+    background-color: black;
+    width: 1110px;
+    height: 500px;
+    margin: 20px;
+
+}
+
+.txt1{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    margin:50px;
+    margin-bottom: 0px;
+    padding: 150px 0px 0px 380px;
+    padding-bottom: 0px;
+}
+
+.txt1comp{
+    margin:0px;
+    padding: 100px 0px 0px 470px;
+}
+
+.txt2{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0px;
+    padding-top: 0px;
+    padding: 0px 0px 0px 500px;
+}
+
+.intro{
+    margin:30px;
+    background-color: white;
+    width:1110px;
+    height: 400px;
+}
+
+.dialouge{
+    color: black;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 50px 0px 0px 50px;
+    padding:100px 200px 50px 50px;
+    float: left;
+}
+
+.dialougecomp{
+    padding:20px 0px 0px 300px;
+}
+
+.img1{
+    width: 100px;
+    height: 500px;
+    margin: 50px 0px 0px px;
+    padding: 50px 100px 50px 0px;
+    background-size: contain;
+}
+
+.bio{
+    width: 1110 px;
+    height: 500px;
+}
+
+.txt3{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    margin:20px;
+    padding: 0px 0px 0px 200px;
+}
+
+.foot{
+    background-color: black;
+}
+
+
